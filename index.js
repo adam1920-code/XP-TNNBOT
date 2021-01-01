@@ -6,12 +6,12 @@
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
 */
-const XPTN = '👾XP-TN👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/_xptn'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6289655478810'; // Nomor whatsapplu cok
-const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN'; // OFFICIAL GRUP LU 1
-const youtube = 'https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw'; // OFFICIAL GRUP LU 2
+const XPTN = '👾YEONGSILL BOT👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/adam_oey107'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6283153843600'; // Nomor whatsapplu cok
+const aktif = 'seaktifnya'; // Kapan bot lu aktif
+const groupwa = 'https://chat.whatsapp.com/Ezd5mUGgNTe0tPXkFNIkvu'; // OFFICIAL GRUP LU 1
+const youtube = 'https://youtube.com/channel/UCxSQfhf4llVYhYp_We1k1Ag'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -2172,7 +2172,7 @@ axios.get(`https://st4rz.herokuapp.com/api/ytv2?url=${teks}`).then((res) => {
 })
 }
 else if (text == '.officialbot'){
-conn.sendMessage(id, '➡ Group1 : https://bit.ly/2JpM3vU\n➡ Group2 : https://bit.ly/37xxNto' ,MessageType.text);
+conn.sendMessage(id, '➡ Group1 : -➡ Group2 : -' ,MessageType.text);
 }
      if (messageType == 'imageMessage')
    {
